@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Learning as much as I can to start my career as a Web Dev.
 - 🎓 &nbsp; Studying Software Development at Western Govenors University (Remote).
 - 💼 &nbsp; Working in IT as a remote technician to get into the industry.
-- 🌱 &nbsp; Learning more about Java and Project Management.
+- 🌱 &nbsp; Learning more about Web Development, C# and Project Management.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
